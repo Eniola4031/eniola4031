@@ -34,7 +34,7 @@
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to travel, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at : **eniola.agboola4031@gmail.com**
-<!-- - ⚡ Fun fact : I love cats  <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43"> -->
+<!-- - ⚡ Fun fact : I love to speak at event  <img alt="speaker" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43"> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=riyaroy2086&color=blueviolet&style=plastic&align=center) -->
 
@@ -43,7 +43,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=radical">
 
 <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img align="center"  alt="Enny's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 
   
 
@@ -80,11 +80,11 @@
  <h2>🚀My Latest Update : </h2>
  <br>
  
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=riyaroy2086&theme=radical)](https://github.com/riyaroy2086/riyaroy2086) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=radical)](https://github.com/riyaroy2086/BlogPrism)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=XpensoMeter&theme=radical)](https://github.com/riyaroy2086/XpensoMeter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Social-Media-Web-App&theme=radical)](https://github.com/riyaroy2086/Social-Media-Web-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=YouTube-Channel-Portfolio&theme=radical)](https://github.com/riyaroy2086/YouTube-Channel-Portfolio)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=eniola4031&theme=radical)](https://github.com/eniola4031/eniola4031) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eniola4031&repo=BlogPrism&theme=radical)](https://github.com/eniola4031/BlogPrism)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eniola4031&repo=XpensoMeter&theme=radical)](https://github.com/eniola4031/XpensoMeter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eniola4031&repo=Social-Media-Web-App&theme=radical)](https://github.com/eniola4031/Social-Media-Web-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eniola4031&repo=YouTube-Channel-Portfolio&theme=radical)](https://github.com/eniola4031/YouTube-Channel-Portfolio)
 
 
 </div>
